@@ -1,0 +1,137 @@
+.box{
+	box-sizing: border-box;
+	height:50px;
+}
+.logo{
+	
+	
+}
+
+
+
+
+
+.cname{
+	height: 50px;
+	text-align:center;
+	padding-top:20px;
+	
+	font-size:30px;
+	color:white;
+	font-family: verdana;
+	background-color:#000000;
+	
+}
+.menu{
+	background-color:#3399ff;
+	height:20px;
+	text-align:center;
+	padding-top:10px;
+	font-size:18px;
+	box-shadow: 3px 3px rgb(223, 149, 144);
+	font-family: Monospace;
+	margin-bottom: 10px;
+	margin-top: 2px;
+	
+}
+.banner{
+	height:500px;
+	margin-top:5px;
+	background-image: url('../photos/Black-living.jpeg');
+	background-attachment:fixed;
+	box-sizing: border-box;
+    text-align: center;
+    font-size: 50px;
+    color: #E77471;
+    font-family: Monospace;
+    font-weight: bold;
+    padding-top: 250px;
+	
+}
+.section_banner{
+			height: 50px;
+		background-color: #C36241;
+		margin-top: 2px;
+		font-size: 25px;
+		font-family: 'Zen Dots', cursive;
+		font-weight: bold;
+		text-align: center;
+		padding-top: 10px;
+		color: black;
+		box-shadow: 5px 5px rgb(223, 149, 144);
+		margin-bottom: 10px;
+}
+.ab_content {
+    text-align: justify;
+    font-family: 'Zen Dots', cursive;
+    font-size: 20px;
+}
+.section_banner {
+    height: 50px;
+    background-color:#C36241 ;
+    margin-top: 2px;
+    font-size: 25px;
+    font-family: 'Zen Dots', cursive;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+    box-shadow: 5px 5px rgb(223, 149, 144);
+    margin-bottom: 10px;
+}
+.add{
+	text-align: justify;
+}
+.footer {
+    height: 150px;
+    background-color:#000000 ;
+    background-attachment: fixed;
+    font-size: 20px;
+    font-family: Serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    box-shadow: 5px 5px rgb(223, 149, 144);
+    margin-bottom: 5px;
+}
+.ab_content {
+    text-align: justify;
+    font-family: Serif;
+    font-size: 20px;
+}
+.mirror.jpg{
+	padding-top: 100px;
+}
+.table_add{
+	 font-weight: bold;
+	  font-size: 20px;
+}
+.add{
+	 font-size: 20px;
+	 font-family: Serif;
+     font-weight: bold;
+}
+.bname {
+    height: 100px;
+   
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 5px;
+    font-size: 30px;
+    color: #E61407;
+    font-family: Serif;
+}
+.breview {
+    height: 300px;
+    color: white;
+	font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+   text-align: justify;
+    padding-right: 10px;
+    padding-left: 10px;
+	padding-top: 15px;
+	background-color:#000000;
+}
+	
+	
